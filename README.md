@@ -1,8 +1,8 @@
 ## Hi, I'm Navtoj 👋
 
 - 👨‍💻 I'm a software developer.
-- 🔭 Building [`apothefy`](https://www.apothefy.com)
-- 🌱 Learning [`svelte`](https://svelte.dev)
+- 🔭 Building [`timetable`](https://timetable.navtoj.com)
+- 🌱 Learning [`kotlin`](https://kotlinlang.org)
 - 📖 Dev blog [`dev.to/navtoj`](https://dev.to/navtoj)
 
 <!-- 
