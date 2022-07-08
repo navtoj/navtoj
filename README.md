@@ -1,7 +1,7 @@
 ## Hi, I'm Navtoj 👋
 
 - 👨‍💻 I'm a software developer.
-- 🔭 Building [`timetable`](https://timetable.navtoj.com)
+- 🔭 Building [`timetable`](https://plan.pages.dev)
 - 🌱 Learning [`kotlin`](https://kotlinlang.org)
 - 📖 Dev blog [`dev.to/navtoj`](https://dev.to/navtoj)
 
