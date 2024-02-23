@@ -1,6 +1,5 @@
 ### Hi there 👋
 
--   👨‍💻 I'm a software developer.
 -   🌱 Learning [`expo`](https://github.com/expo/expo)
 -   🔭 Building [`side projects`](https://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
 -   📖 Dev blog [`dev.to/navtoj`](https://dev.to/navtoj)
