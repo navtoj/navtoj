@@ -39,6 +39,7 @@
     "svelte-preprocess"
   ],
   "dependencies": {
+    "@fontsource/outfit": "^5.0.13",
     "clsx": "^2.1.1",
     "mode-watcher": "^0.3.0",
     "tailwind-merge": "^2.3.0",
