@@ -4,7 +4,7 @@
 -   🔭 Building [`side projects`](https://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
 -   📖 Dev blog [`dev.to/navtoj`](https://dev.to/navtoj)
 
-### My Stack
+### Stack
 
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=white&color=FF3E00" />](https://svelte.dev/)
