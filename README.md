@@ -11,6 +11,10 @@
 [<img src="https://img.shields.io/badge/Bun-555555?style=for-the-badge&logo=bun" />](https://bun.sh/)
 [<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white&color=34b27b" />](https://supabase.com/)
 [<img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white" />](https://pages.cloudflare.com/)
+[<img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />](https://vscodium.com/)
+
+[<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />](https://www.swift.org/)
+[<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />](https://developer.apple.com/xcode/)
 
 <!--
 **navtoj/navtoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Badges: badges.pages.dev -->
