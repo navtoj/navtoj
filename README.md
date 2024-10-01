@@ -2,7 +2,7 @@
 
 -   🌱 Learning [`swift`](https://www.swift.org/)
 -   🔭 Building [`side projects`](https://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
--   📖 Dev blog [`dev.to/navtoj`](https://dev.to/navtoj)
+-   📖 Writing [`dev.to/navtoj`](https://dev.to/navtoj)
 
 ### Stack
 
