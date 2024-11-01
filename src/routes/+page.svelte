@@ -44,9 +44,7 @@
 				href="https://ufv.pages.dev"
 			>
 				<p>Scholarship Finder</p>
-				<p
-					class="group-hover/link:text-emerafrom-emerald-400 text-sm dark:group-hover/link:text-background"
-				>
+				<p class="text-sm group-hover/link:text-emerald-400 dark:group-hover/link:text-background">
 					2023
 				</p>
 			</a>
