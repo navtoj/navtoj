@@ -2,11 +2,9 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"type": "npm",
-			"script": "dev",
-			"problemMatcher": [],
-			"label": "npm: dev",
-			"detail": "vite dev",
+			"type": "shell",
+			"command": "bun install && bun run dev",
+			"label": "Run Dev Server",
 			"runOptions": {
 				"runOn": "folderOpen"
 			}
