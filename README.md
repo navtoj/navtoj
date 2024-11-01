@@ -1,38 +1,34 @@
-# sv
+### Hi there 👋
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+-   🌱 Learning [`swift`](https://www.swift.org/)
+-   🔭 Building [`side projects`](https://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
+-   📖 Writing [`dev.to/navtoj`](https://dev.to/navtoj)
 
-## Creating a project
+### Stack
 
-If you're seeing this, you've probably already done this step. Congrats!
+[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=white&color=FF3E00" />](https://svelte.dev/)
+[<img src="https://img.shields.io/badge/Bun-555555?style=for-the-badge&logo=bun" />](https://bun.sh/)
+[<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white&color=34b27b" />](https://supabase.com/)
+[<img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white" />](https://pages.cloudflare.com/)
+[<img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />](https://vscodium.com/)
 
-```bash
-# create a new project in the current directory
-npx sv create
+[<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />](https://www.swift.org/)
+[<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />](https://developer.apple.com/xcode/)
 
-# create a new project in my-app
-npx sv create my-app
-```
+<!--
+**navtoj/navtoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Developing
+Here are some ideas to get you started:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+<!-- Badges: badges.pages.dev -->
