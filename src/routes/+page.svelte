@@ -18,9 +18,9 @@
 		<div class="flex justify-between gap-x-4 px-4 text-lg text-foreground/50">
 			<a href="mailto:hello@navtoj.com" class="hover:text-foreground">email</a>
 			<Separator orientation="vertical" />
-			<a href="https://github.com/navtoj" class="hover:text-foreground">github</a>
+			<a href="https://bsky.app/profile/navtoj.com" class="hover:text-foreground">bsky</a>
 			<Separator orientation="vertical" />
-			<a href="https://twitter.com/navtoj" class="hover:text-foreground">twitter</a>
+			<a href="https://github.com/navtoj" class="hover:text-foreground">github</a>
 		</div>
 	</div>
 
