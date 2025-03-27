@@ -51,7 +51,7 @@
 			<a
 				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-gradient-to-r hover:from-blue-500 hover:to-slate-50 hover:text-background"
 				target="_blank"
-				href="https://www.apothefy.com"
+				href="https://web.archive.org/web/20220227033429if_/https://www.apothefy.com"
 			>
 				<p>Apothefy</p>
 				<p class="text-sm group-hover/link:text-blue-500 dark:group-hover/link:text-background">
