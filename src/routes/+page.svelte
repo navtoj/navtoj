@@ -61,7 +61,7 @@
 			<a
 				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-gradient-to-r hover:from-fuchsia-400 hover:to-slate-50 hover:text-background"
 				target="_blank"
-				href="https://www.spotcare.ca"
+				href="https://web.archive.org/web/20210927014044if_/https://www.spotcare.ca"
 			>
 				<p>SpotCare</p>
 				<p class="text-sm group-hover/link:text-fuchsia-400 dark:group-hover/link:text-background">
