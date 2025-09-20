@@ -2,7 +2,8 @@
 
 -   🌱 Learning [`rust`](https://www.rust-lang.org/)
 -   🔭 Building [`side projects`](https://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
--   📖 Writing [`dev.to/navtoj`](https://dev.to/navtoj)
+-   📖 Studying `computer science`
+<!-- Writing [`dev.to/navtoj`](https://dev.to/navtoj) -->
 
 ### Stack
 
