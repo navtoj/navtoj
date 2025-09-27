@@ -2,7 +2,7 @@
 	import { Separator } from '$lib/components/ui/separator';
 </script>
 
-<div class="grid h-dvh place-content-center gap-14 p-2">
+<div class="grid min-h-dvh place-content-center gap-14 p-2 py-12">
 	<div class="grid gap-y-6">
 		<h1 class="text-5xl font-medium">navtoj <span class="text-foreground/75">chahal</span></h1>
 		<div class="grid gap-y-2 text-lg text-foreground/50">
