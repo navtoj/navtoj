@@ -1,2 +1,76 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+	import { Separator } from '$lib/components/ui/separator';
+</script>
+
+<div class="grid min-h-dvh place-content-center-safe gap-14 p-2 py-12">
+	<div class="grid gap-y-6">
+		<h1 class="text-5xl font-medium">navtoj <span class="text-foreground/75">chahal</span></h1>
+		<div class="grid gap-y-2 text-lg text-foreground/50">
+			<p>I'm a programmer.</p>
+			<p>Passionate about design and software.</p>
+			<p>Currently studying computer science.</p>
+		</div>
+	</div>
+
+	<div class="grid gap-y-4">
+		<h1 class="text-3xl font-medium text-foreground/75">get in touch</h1>
+		<Separator />
+		<div class="flex justify-between gap-x-4 px-4 text-lg text-foreground/50">
+			<a
+				href="mailto:hello@navtoj.com?subject=Hi%20there!&body=Hello%2C%0A%0AI%20wanted%20to%20chat%20with%20you%20about%20..."
+				class="hover:text-foreground">email</a
+			>
+			<Separator orientation="vertical" />
+			<a href="https://bsky.app/profile/navtoj.com" class="hover:text-foreground">bsky</a>
+			<Separator orientation="vertical" />
+			<a href="https://github.com/navtoj" class="hover:text-foreground">github</a>
+		</div>
+	</div>
+
+	<div class="grid gap-y-4">
+		<h1 class="text-3xl font-medium text-foreground/75">past work</h1>
+		<Separator />
+		<div class="grid gap-y-3 text-lg text-foreground/50">
+			<a
+				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-yellow-500 hover:to-slate-50 hover:text-background"
+				target="_blank"
+				href="https://github.com/navtoj/notchbar"
+			>
+				<p>NotchBar</p>
+				<p class="text-sm group-hover/link:text-yellow-500 dark:group-hover/link:text-background">
+					2024
+				</p>
+			</a>
+			<a
+				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-emerald-400 hover:to-slate-50 hover:text-background"
+				target="_blank"
+				href="https://ufv.pages.dev"
+			>
+				<p>Scholarship Finder</p>
+				<p class="text-sm group-hover/link:text-emerald-400 dark:group-hover/link:text-background">
+					2023
+				</p>
+			</a>
+			<a
+				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-blue-500 hover:to-slate-50 hover:text-background"
+				target="_blank"
+				href="https://web.archive.org/web/20220227033429if_/https://www.apothefy.com"
+			>
+				<p>Apothefy</p>
+				<p class="text-sm group-hover/link:text-blue-500 dark:group-hover/link:text-background">
+					2022
+				</p>
+			</a>
+			<a
+				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-fuchsia-400 hover:to-slate-50 hover:text-background"
+				target="_blank"
+				href="https://web.archive.org/web/20210927014044if_/https://www.spotcare.ca"
+			>
+				<p>SpotCare</p>
+				<p class="text-sm group-hover/link:text-fuchsia-400 dark:group-hover/link:text-background">
+					2021
+				</p>
+			</a>
+		</div>
+	</div>
+</div>
