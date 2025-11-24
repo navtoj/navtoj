@@ -17,7 +17,7 @@
 		<Separator />
 		<div class="flex justify-between gap-x-4 px-4 text-lg text-foreground/50">
 			<a
-				href="mailto:hello@navtoj.com?subject=Hi%20there!&body=Hello%2C%0A%0AI%20wanted%20to%20chat%20with%20you%20about%20..."
+				href="mailto:hello@navtoj.com?subject=Hi%20there!&body=I%20wanted%20to%20chat%20with%20you%20about%20..."
 				class="hover:text-foreground">email</a
 			>
 			<Separator orientation="vertical" />
