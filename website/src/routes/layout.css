@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 @import 'tailwindcss';
 @import 'tw-animate-css';
+
+@theme {
+	--font-outfit: 'Outfit', sans-serif;
+}
 
 @custom-variant dark (&:is(.dark *));
 
@@ -115,6 +120,6 @@
 		@apply border-border outline-ring/50;
 	}
 	body {
-		@apply bg-background text-foreground;
+		@apply bg-background font-outfit text-foreground;
 	}
 }
