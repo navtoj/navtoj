@@ -34,6 +34,7 @@
 			<a
 				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-red-500 hover:to-slate-50 hover:text-background"
 				target="_blank"
+				rel="noopener noreferrer"
 				href="https://github.com/navtoj/biometric-keychain"
 			>
 				<p>Biometric Keychain</p>
@@ -44,6 +45,7 @@
 			<a
 				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-yellow-500 hover:to-slate-50 hover:text-background"
 				target="_blank"
+				rel="noopener noreferrer"
 				href="https://github.com/navtoj/notchbar"
 			>
 				<p>NotchBar</p>
@@ -54,6 +56,7 @@
 			<a
 				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-emerald-400 hover:to-slate-50 hover:text-background"
 				target="_blank"
+				rel="noopener noreferrer"
 				href="https://ufv.pages.dev"
 			>
 				<p>Scholarship Finder</p>
@@ -64,6 +67,7 @@
 			<a
 				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-blue-500 hover:to-slate-50 hover:text-background"
 				target="_blank"
+				rel="noopener noreferrer"
 				href="https://web.archive.org/web/20220227033429if_/https://www.apothefy.com"
 			>
 				<p>Apothefy</p>
@@ -74,6 +78,7 @@
 			<a
 				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-fuchsia-400 hover:to-slate-50 hover:text-background"
 				target="_blank"
+				rel="noopener noreferrer"
 				href="https://web.archive.org/web/20210927014044if_/https://www.spotcare.ca"
 			>
 				<p>SpotCare</p>
