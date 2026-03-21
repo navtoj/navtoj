@@ -32,6 +32,16 @@
 		<Separator />
 		<div class="grid gap-y-3 text-lg text-foreground/50">
 			<a
+				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-red-500 hover:to-slate-50 hover:text-background"
+				target="_blank"
+				href="https://github.com/navtoj/biometric-keychain"
+			>
+				<p>Biometric Keychain</p>
+				<p class="text-sm group-hover/link:text-red-500 dark:group-hover/link:text-background">
+					2025
+				</p>
+			</a>
+			<a
 				class="group/link flex items-center justify-between px-2.5 py-1.5 hover:bg-linear-to-r hover:from-yellow-500 hover:to-slate-50 hover:text-background"
 				target="_blank"
 				href="https://github.com/navtoj/notchbar"
