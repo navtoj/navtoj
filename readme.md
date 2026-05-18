@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -   🌱 Learning [`rust`](https://www.rust-lang.org/)
--   🔭 Building [`side projects`](https://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
+-   🔭 Building [`side projects`](https://web.archive.org/web/20260515153420im_/https://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
 -   🎓 Studying `computer science`
 
 ### Stack
